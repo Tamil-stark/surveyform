@@ -1,0 +1,51 @@
+.name{
+    padding: 10px;
+    margin: 10px;
+    padding-bottom: 15px;
+    
+}
+.email{
+    padding-top: 15px;
+}
+.purchase{
+   background-color: lightgray;
+
+}
+.company{
+    background-color: lightgray;}
+.buy{
+    background-color: lightgray;
+}
+.recom{
+    background-color: lightgray;
+}
+.cls{
+    
+    text-align: center;
+}
+.ans{
+    border-collapse: collapse;
+    text-align: center;
+}
+#ooo{
+    text-align: left;
+}
+#hhh{
+    text-align: left;
+}
+#iii{
+    text-align: left;
+}
+#fff{
+    padding-top: 15px;
+    text-align: left;
+}
+#mmm{
+    text-align: left;
+}
+#nnn{
+    text-align: left;
+}
+#ppp{
+    text-align: left;
+}
